@@ -6,16 +6,16 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-Create a text1.txt with some content in it
+Create a f1.txt with some content in it
 
 ### Step 2: 
- Open the text1.txt file in read mode
+ Open the f1.txt file in read mode
 
 ### Step 3: 
-Create a copy.txt file using write mode
+Create a f2.txt file using write mode
 
 ### Step 4:  
-Copy the content of text1.txt file to copy.txt using write function
+Copy the content of f1.txt file to f2.txt using write function
 
 
 ## PROGRAM:
@@ -31,7 +31,13 @@ with open('f1.txt','r') as f1:
 
 ### OUTPUT:
 ![5c](https://github.com/BALA291/copy-file/assets/120717501/8ba47254-bb02-4d62-ae56-958468ffcfd9)
+
+
+
 ![5cfi](https://github.com/BALA291/copy-file/assets/120717501/d5250c40-3cb6-4d6e-9b19-814ad5d79a84)
+
+
+
 ![5cfii](https://github.com/BALA291/copy-file/assets/120717501/55aaf5ef-b5ec-4ddd-8263-b0d6f5c791f4)
 
 ## RESULT:
